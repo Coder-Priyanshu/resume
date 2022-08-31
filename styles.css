@@ -117,7 +117,6 @@ h5{
     margin: 1rem 0;
 }
 .footer{
-    background-color: aliceblue;
     padding: 5rem;
     margin: auto;
     text-align: center;
@@ -129,6 +128,5 @@ h5{
 .p3{
     color: black;
     font-size:10px;
-    position: relative;
-    top: 5.5rem;
+    margin-top:5rem;
 }
